@@ -1,0 +1,4 @@
+.logo_size_l {
+	width: var(--graphics-size-3xl);
+	height: var(--graphics-size-3xl);
+}
