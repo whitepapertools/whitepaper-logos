@@ -9,12 +9,12 @@
 ## Цвета фона
 Фон у лого лучше использовать яркий и контрастный, использующий бренд цвет (или похожий) компании, например рассмотрим логотип Аквафор: 
 
-[[https://github.com/whitepapertools/whitepaper-portal/blob/master/assets/doc/content/content-logo/brand-logo-all.png|alt=brand-logo-all]
+![brand-logo-all](https://rawcdn.githack.com/whitepapertools/whitepaper-portal/268991cc1b448d15f370f43e3939def44ad1e682/assets/doc/content/content-logo/brand-logo-all.png)
 
 
 Видно, что бренд цвет у Аквафор синий, часто чтобы разобраться в оттенке проще зайти на сайт компании выбрать самостоятельно самый активный (например взять из кнопок на сайте или из шапки сайта)
 
-[[https://github.com/whitepapertools/whitepaper-portal/blob/master/assets/doc/content/content-logo/brand-logo-prepare.png|alt=brand-logo-prepare]
+![brand-logo-prepare](https://rawcdn.githack.com/whitepapertools/whitepaper-portal/268991cc1b448d15f370f43e3939def44ad1e682/assets/doc/content/content-logo/brand-logo-prepare.png)
 
 Найденный активный цвет мы используем для фона круга, на котором мы будем располагать сам логотип.
 
@@ -22,7 +22,7 @@
 
 Если у бренда много фирменных цветов, то можно расположить их на серой (#E6E6E6) или темной подложке.
 
-[[https://github.com/whitepapertools/whitepaper-portal/blob/master/assets/doc/content/content-logo/brand-logo-multicolor.png|alt=brand-logo-multicolor]
+![brand-logo-multicolor](https://rawcdn.githack.com/whitepapertools/whitepaper-portal/268991cc1b448d15f370f43e3939def44ad1e682/assets/doc/content/content-logo/brand-logo-multicolor.png)
 
 ## Цвет символа
 Разобравшись с фоном, нужно найти цвет для символа. В большинстве случаев у ярких фоновых цветов лучше использовать белый цвет у начертания. В примере с Аквафором, мы нашли синий цвет для фона и использовали белый цвет для текстовой части.
@@ -35,7 +35,7 @@
 
 Бывает так же ситуация если лого лежит на сером или черном фоне (или очень темном цвете), в случае с серым стоит использовать цвет символа который лежит на сером круге, а в ситуациях с темным лого,брать для дополнительного цвета более светлый оттенок.
 
-[[https://github.com/whitepapertools/whitepaper-portal/blob/master/assets/doc/content/content-logo/brand-logo-additional.png|alt=brand-logo-additional]
+![brand-logo-additional](https://rawcdn.githack.com/whitepapertools/whitepaper-portal/268991cc1b448d15f370f43e3939def44ad1e682/assets/doc/content/content-logo/brand-logo-additional.png)
 
 ## О пропорциях символа
 Одно основное требование которое мы сформировали - это не стоит мельчить, мы делаем логотипы не только для портальной команды, но и для мобилки так что если у логотипа есть мелкие детали от них стоит избавляться, увеличивать однопиксельные линии, упрощать формы.
