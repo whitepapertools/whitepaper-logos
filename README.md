@@ -30,7 +30,7 @@
 
 Это способ хорошо работает, если есть задача не использовать монохромные лого, или к вашему лого требуется делать подложку из доп. цвета (про доп. написано ниже). 
 
-![brand-logo-multicolor](https://rawcdn.githack.com/whitepapertools/whitepaper-portal/cfe4e6a6489b03b267af238bc9a3d8e70e83d3be/assets/doc/content/content-logo/brand-logo-grey.png)
+![brand-logo-grey](https://rawcdn.githack.com/whitepapertools/whitepaper-portal/cfe4e6a6489b03b267af238bc9a3d8e70e83d3be/assets/doc/content/content-logo/brand-logo-grey.png)
 
 ## Цвет символа
 Разобравшись с фоном, нужно найти цвет для символа. В большинстве случаев у ярких фоновых цветов лучше использовать белый цвет у начертания. В примере с Аквафором, мы нашли синий цвет для фона и использовали белый цвет для текстовой части.
